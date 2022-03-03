@@ -7,6 +7,7 @@ using PlatformService.Models;
 namespace PlatformService.Controllers
 {
     [Route("api/[controller]")]
+    // [Route("/")]
     [ApiController]
     public class PlatformsController : ControllerBase
     {
